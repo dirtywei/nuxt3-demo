@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.stylelint": true,
+    "source.fixAll.eslint": true,
+    "eslint.autoFixOnSave": true
+  },
+  "editor.formatOnSave": true
+}
